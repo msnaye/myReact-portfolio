@@ -1,12 +1,21 @@
 # react-portfolio
 
+## Table of Contents
+
+- [User Story](#User-Story)
+- [Acceptance Criteria](#Acceptance-Criteria)
+- [Technologies](#Technologies)
+- [Contact Me](#Contact-Me)
+- [Screenshot](#Screenshot)
+- [Live App](#Live-App)
+
 ## User Story
 
 AS AN employer looking for candidates with experience building single-page applications
 I WANT to view a potential employee's deployed React portfolio of work samples
 SO THAT I can assess whether they're a good candidate for an open position
 
-##Acceptance Criteria
+## Acceptance Criteria
 
 GIVEN a single-page application portfolio for a web developer
 WHEN I load the portfolio
@@ -54,6 +63,8 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 
 ## Live App
 
-[Live Link]()
+[Live Link](https://msnaye.github.io/myReact-portfolio/)
+
+
 
 
