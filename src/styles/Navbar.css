@@ -31,7 +31,7 @@
     z-index: 9;
   }
   .mainContainer{
-    background: darkcyan;
+    background-image: linear-gradient(to right, rgb(20, 107, 107),rgb(222, 226, 140));
 
   }
 
