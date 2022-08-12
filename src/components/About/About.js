@@ -7,7 +7,7 @@ function About() {
   return (
     <section className="mytag">
       <h1 className="about-me">About Me</h1>
-      <div>
+      <div className="bgC">
         <h2 className='me'>Hi, my name is </h2>
         <h1 className='me'>Mayra Ibarra</h1>
 

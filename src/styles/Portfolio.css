@@ -4,6 +4,7 @@
     font-size:30px;
     background: darkcyan;
     margin:0px;
+    padding-top:30px;
 }
 .my-projects{
     margin: 5rem; 
@@ -19,6 +20,9 @@
     justify-content:space-between;
     flex-wrap:wrap;
     margin:50px;
+    padding:30px;
+    padding-top: 30px;
+    padding-bottom: 40px;
 }
 
 .project{
