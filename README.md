@@ -58,7 +58,7 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 [linkedin](https://www.linkedin.com/in/mayra-ibarra-78588588/)
 
 ## Screenshot
-![image](../../assets/PhotoList/react-port.png)
+![image](src/assets/PhotoList/react-port.png)
 
 
 ## Live App
