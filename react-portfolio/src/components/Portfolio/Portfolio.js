@@ -54,6 +54,28 @@ function Portfolio () {
           <button className="live-website-btn"><a href="https://geo-chat-neighborhoods.herokuapp.com/homepage">Go Live</a></button>
         </div>
     </div>
+
+    <div className="project">
+            <h3 className="project-name">
+              Wheater App
+            </h3>
+            <img className="project-image" src=".assets/PhotoList/weatherApp.png" alt=""/>
+        <div className="btn-container"> 
+          <button className="repo-btn"> <a href="https://github.com/msnaye/weather-app">Go to Repo</a> </button>
+          <button className="live-website-btn"><a href="https://msnaye.github.io/weather-app/">Go Live</a></button>
+        </div>
+    </div>
+
+    <div className="project">
+            <h3 className="project-name">
+              Note Taker
+            </h3>
+            <img className="project-image" src=".assets/PhotoList/Homepage.png" alt=""/>
+        <div className="btn-container"> 
+          <button className="repo-btn"> <a href="https://github.com/msnaye/note-taker">Go to Repo</a> </button>
+          <button className="live-website-btn"><a href="https://glacial-inlet-20106.herokuapp.com">Go Live</a></button>
+        </div>
+    </div>
           
           
       
